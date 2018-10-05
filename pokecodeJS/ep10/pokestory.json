@@ -1,0 +1,22 @@
+{
+   "trainers": [
+      {
+         "id": 1,
+         "firstname": "Sacha",
+         "age": 10,
+         "pokemons": [
+            "004"
+         ],
+         "startDate": "2018 - 10 - 1"
+      },
+      {
+         "id": 2,
+         "firstname": "Pierre",
+         "age": 15,
+         "pokemons": [
+            "007"
+         ],
+         "startDate": "2018 - 10 - 1"
+      }
+   ]
+}
